@@ -72,9 +72,7 @@ To perform the investigation, we proceed as follows:
 
   Overall, these conclusions does not provide valuable insights into the relationship between viral TikTok recipes and food consumption patterns in Spain.
 
-
-
-## Libraries used
+## Libraries used are:
 import pandas as pd
 import numpy as np
 import seaborn as sns
