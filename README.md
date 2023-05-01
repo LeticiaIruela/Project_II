@@ -1,4 +1,5 @@
-# Project-II-How the viral recipes on social media impacts on food consumtion
+# Project-II-How the viral recipes on social media impacts food consumtion
+![image](https://user-images.githubusercontent.com/128729754/235526744-0c8c8b99-85c5-4473-a30b-8106eaed3076.png)
 
 ## 0. Introduction
 
@@ -55,6 +56,13 @@ To perform the investigation, we proceed as follows:
     - Correlation graph between Volum and Price (Value)
     - Monthly consumption vs food category
     - Monthly market penetratin
+![image](https://user-images.githubusercontent.com/128729754/235527060-1f9bedd1-7394-4b01-b996-fa749bdd528e.png)
+![image](https://user-images.githubusercontent.com/128729754/235527184-7a2cb794-4a8e-4285-a7c8-aec1bbd8c196.png)
+![image](https://user-images.githubusercontent.com/128729754/235527248-4a2c3ff2-6e01-4a4f-9283-41a9052da55c.png)
+![image](https://user-images.githubusercontent.com/128729754/235527299-606efd06-faa1-4ac6-bc54-58505707906c.png)
+![image](https://user-images.githubusercontent.com/128729754/235527360-f9bbd896-86c8-491a-944b-b4b0577a4f8a.png)
+![image](https://user-images.githubusercontent.com/128729754/235527398-3fd0a71a-a5a7-4862-a7aa-fda084fc965e.png)
+
 
 ## 3. CONCLUSIONS
     
