@@ -1,5 +1,5 @@
 # Project-II-How the viral recipes on social media impacts food consumtion
-![image](https://user-images.githubusercontent.com/128729754/235526744-0c8c8b99-85c5-4473-a30b-8106eaed3076.png)
+![image](https://user-images.githubusercontent.com/128729754/235527573-19343aac-69df-4805-84fe-cb8ba9f58fc7.png)
 
 ## 0. Introduction
 
