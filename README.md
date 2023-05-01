@@ -32,15 +32,15 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 ## 2. Methodology
 
 To perform the investigation, we proceed as follows:
-
+1.-
   - Web scrapping of : https://www.directoalpaladar.com/actualidad-1/estas-han-sido-diez
-    -  We want to find the labels <h2>, as they are the ones with ores valuated information"ingredients. We will use next_sibling and next_node to find the viral recipes 
-   - We do web scrapping to get the ingredients throught a loop iterating the ingredients.  We will use words "Ingredients" and "Elaborations" to search our desired values. We will added to a new_dict.
-   - We .drop to just keep the 5 top recipes to our study
-   - Homogenize data throught .upper, .join and .split methods
-   - Verify all the ingredients are present.
-   - Web scrapping new website to comple all the recipes ingredients : url = 'https://www.spendwithpennies.com/how-to-make-a-charcuterie-board/'
-    - Google tanslator method in order to keep dta in the same language as the website was in EN and all the data is in ES
+  - We want to find the labels <h2>. We will use next_sibling and next_node to find the viral recipes 
+  - We do web scrapping to get the ingredients throught a loop iterating the ingredients.  We will use words "Ingredients" and "Elaborations" to search our desired values. We will added to a new_dict.
+  - We .drop to just keep the 5 top recipes to our study
+  - Homogenize data throught .upper, .join and .split methods
+  - Verify all the ingredients are present.
+  - Web scrapping new website to comple all the recipes ingredients : url = 'https://www.spendwithpennies.com/how-to-make-a-charcuterie-board/'
+  - Google tanslator method in order to keep dta in the same language as the website was in EN and all the data is in ES
 
 
 - 2. Data set : cleaning and transformation:
