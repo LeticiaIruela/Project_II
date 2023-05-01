@@ -34,7 +34,8 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 To perform the investigation, we proceed as follows:
 1.-
   - Web scrapping of : https://www.directoalpaladar.com/actualidad-1/estas-han-sido-diez
-  - We want to find the labels <h2>. We will use next_sibling and next_node to find the viral recipes 
+  - We want to find the labels <h2>.
+  - We will use next_sibling and next_node to find viral recipes on the web
   - We do web scrapping to get the ingredients throught a loop iterating the ingredients.  We will use words "Ingredients" and "Elaborations" to search our desired values. We will added to a new_dict.
   - We .drop to just keep the 5 top recipes to our study
   - Homogenize data throught .upper, .join and .split methods
