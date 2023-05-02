@@ -23,7 +23,7 @@ The hypothesis of this study is that viral TikTok recipes have a significant imp
 
 Specifically, we aim to answer two questions:
 
-** HYPOTESYS**
+***HYPOTESYS***
 1. What are the most 5 popular recipes videos and ingredients featured in viral TikTok recipes in Spain? We hypothesize that the most trendy recipes and ingredients will be those that are visually appealing and easy to prepare, and that they will be heavily influenced by current food trends. (Only deep dive in the first one to understand the hypotesys)
 
 2. Is the most viral recipe on TikTok generating a real impact in food consumption in Spain? We hypothesize that the most viral recipe videos on TikTok will have a measurable impact on food consumption habits in Spain, as reflected in search trends and changes in consumer behavior.
@@ -49,18 +49,25 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 - Replace nan values and concatenate data
     
     
-## 3.Visualizations:
-    - Frequency that the category ingredients appears in the top 5 recipes
-    - Annual consumtion of category ingredients (Thousands of kg)
-    - Correlation graph between Volume and Price (Value)
-    - Monthly consumption vs food category
-    - Monthly market penetration
-    - Cloud Bread searches on Google - Spain
+## 3. Visualizations:
+
 ![image](https://user-images.githubusercontent.com/128729754/235527184-7a2cb794-4a8e-4285-a7c8-aec1bbd8c196.png)
+
+- Annual consumtion of category ingredients (Thousands of kg)
 ![image](https://user-images.githubusercontent.com/128729754/235527248-4a2c3ff2-6e01-4a4f-9283-41a9052da55c.png)
+
+- Correlation graph between Volume and Price (Value)
 ![image](https://user-images.githubusercontent.com/128729754/235527299-606efd06-faa1-4ac6-bc54-58505707906c.png)
+
+- Monthly consumption vs food category
 ![image](https://user-images.githubusercontent.com/128729754/235527360-f9bbd896-86c8-491a-944b-b4b0577a4f8a.png)
+
+Monthly market penetration
 ![image](https://user-images.githubusercontent.com/128729754/235527398-3fd0a71a-a5a7-4862-a7aa-fda084fc965e.png)
+
+
+Cloud Bread searches on Google - Spain
+
 ![image](https://user-images.githubusercontent.com/128729754/235527060-1f9bedd1-7394-4b01-b996-fa749bdd528e.png)
 ![image](https://user-images.githubusercontent.com/128729754/235591164-00ebf595-29f0-4a1a-9197-68f394bd92b9.png)
 
