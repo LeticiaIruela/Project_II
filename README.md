@@ -55,6 +55,7 @@ To perform the investigation, we proceed as follows:
     - Correlation graph between Volume and Price (Value)
     - Monthly consumption vs food category
     - Monthly market penetration
+    - Cloud Bread searches on Google - Spain
 ![image](https://user-images.githubusercontent.com/128729754/235527184-7a2cb794-4a8e-4285-a7c8-aec1bbd8c196.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527248-4a2c3ff2-6e01-4a4f-9283-41a9052da55c.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527299-606efd06-faa1-4ac6-bc54-58505707906c.png)
