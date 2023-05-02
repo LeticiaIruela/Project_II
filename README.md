@@ -32,7 +32,7 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 
 ## 2. Methodology
 
-To perform the investigation, we proceed as follows:
+1. To perform the investigation, we proceed as follows:
 - Web scrapping of : https://www.directoalpaladar.com/actualidad-1/estas-han-sido-diez
 - We want to find the labels <h2>. 
 - We do web scrapping to get the ingredients throught a loop iterating the ingredients.  We will use words "Ingredients" and "Elaborations" to search our desired values. We will added to a new_dict.
