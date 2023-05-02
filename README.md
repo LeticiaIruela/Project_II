@@ -46,21 +46,22 @@ To perform the investigation, we proceed as follows:
      - The dataset from a offical source from the spanish goverment: https://www.mapa.gob.es/en/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx
     - Columns renaming, subsets, data type change
     - Creat a list to correlate each ingredient of the recipes with the aliment group in the data set. If the ingredint has correlation, we will add de Aliment Group in the column
-    - replace nan values and concatenate data
+    - Replace nan values and concatenate data
     
     
 - 3.Visualizations:
     - Frequency that the category ingredients appears in the top 5 recipes
     - Annual consumtion of category ingredients (Thousands of kg)
-    - Correlation graph between Volum and Price (Value)
+    - Correlation graph between Volume and Price (Value)
     - Monthly consumption vs food category
-    - Monthly market penetratin
-![image](https://user-images.githubusercontent.com/128729754/235527060-1f9bedd1-7394-4b01-b996-fa749bdd528e.png)
+    - Monthly market penetration
 ![image](https://user-images.githubusercontent.com/128729754/235527184-7a2cb794-4a8e-4285-a7c8-aec1bbd8c196.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527248-4a2c3ff2-6e01-4a4f-9283-41a9052da55c.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527299-606efd06-faa1-4ac6-bc54-58505707906c.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527360-f9bbd896-86c8-491a-944b-b4b0577a4f8a.png)
 ![image](https://user-images.githubusercontent.com/128729754/235527398-3fd0a71a-a5a7-4862-a7aa-fda084fc965e.png)
+![image](https://user-images.githubusercontent.com/128729754/235527060-1f9bedd1-7394-4b01-b996-fa749bdd528e.png)
+![image](https://user-images.githubusercontent.com/128729754/235591164-00ebf595-29f0-4a1a-9197-68f394bd92b9.png)
 
 
 ## 3. CONCLUSIONS
