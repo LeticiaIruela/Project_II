@@ -32,7 +32,7 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 
 ## 2. Methodology
 
-1. To perform the investigation, we proceed as follows:
+1. Webscrapping: To perform the investigation, we proceed as follows:
 - Web scrapping of : https://www.directoalpaladar.com/actualidad-1/estas-han-sido-diez
 - We want to find the labels h2. 
 - We do web scrapping to get the ingredients throught a loop iterating the ingredients.  We will use words "Ingredients" and "Elaborations" to search our desired values. We will added to a new_dict.
@@ -49,7 +49,7 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
     - Replace nan values and concatenate data
     
     
-- 3.Visualizations:
+## 3.Visualizations:
     - Frequency that the category ingredients appears in the top 5 recipes
     - Annual consumtion of category ingredients (Thousands of kg)
     - Correlation graph between Volume and Price (Value)
@@ -65,7 +65,7 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 ![image](https://user-images.githubusercontent.com/128729754/235591164-00ebf595-29f0-4a1a-9197-68f394bd92b9.png)
 
 
-## 3. CONCLUSIONS
+## 4. CONCLUSIONS
     
 - Trendy ingredients in viral TikTok recipes were found to be simple and basic, and commonly used in households.
 - There was no direct correlation between worldwide trendy recipes and their impact on food consumption in Spain.
