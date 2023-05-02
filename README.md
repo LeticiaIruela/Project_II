@@ -42,11 +42,11 @@ Overall, by investigating these two questions, we aim to gain a deeper understan
 - Web scrapping new website to comple all the recipes ingredients : url = 'https://www.spendwithpennies.com/how-to-make-a-charcuterie-board/'
 - Google tanslator method in order to keep dta in the same language as the website was in EN and all the data is in ES
 
-- 2. Data set : cleaning and transformation:
-     - The dataset from a offical source from the spanish goverment: https://www.mapa.gob.es/en/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx
-    - Columns renaming, subsets, data type change
-    - Creat a list to correlate each ingredient of the recipes with the aliment group in the data set. If the ingredint has correlation, we will add de Aliment Group in the column
-    - Replace nan values and concatenate data
+2. Data set : cleaning and transformation:
+- The dataset from a offical source from the spanish goverment: https://www.mapa.gob.es/en/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx
+- Columns renaming, subsets, data type change
+- Creat a list to correlate each ingredient of the recipes with the aliment group in the data set. If the ingredint has correlation, we will add de Aliment Group in the column
+- Replace nan values and concatenate data
     
     
 ## 3.Visualizations:
