@@ -42,7 +42,6 @@ To perform the investigation, we proceed as follows:
 - Web scrapping new website to comple all the recipes ingredients : url = 'https://www.spendwithpennies.com/how-to-make-a-charcuterie-board/'
 - Google tanslator method in order to keep dta in the same language as the website was in EN and all the data is in ES
 
-
 - 2. Data set : cleaning and transformation:
      - The dataset from a offical source from the spanish goverment: https://www.mapa.gob.es/en/alimentacion/temas/consumo-tendencias/panel-de-consumo-alimentario/series-anuales/default.aspx
     - Columns renaming, subsets, data type change
